@@ -1,0 +1,80 @@
+.article {
+    @include for-phone-only {
+        width: 90%;
+    }
+    width: 80%;
+    margin: 0 auto 40px; /* cima esquerda/direita baixo */
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+
+    &__title {
+        background-color: $light-gray;
+        text-align: center;
+        padding: 20px;
+    }
+
+    &__h1 {
+       @include fontSize(22px);
+        color:$dark-gray;
+        letter-spacing: 1px;
+      
+
+        @extend %half-margin-top, %default-margin-bottom;
+
+    }
+    /* breadcrum é uma lista de links */
+    .breadcrumb {
+        @include flx(justify-content,center);
+        align-items: center;
+
+        &__link {
+            @include fontSize(12px);
+            text-decoration: none;
+
+            
+            color:$dark-gray;
+            &:hover {
+                text-decoration: underline;
+                color:$purple;
+            }
+        }
+
+        &__img {
+            width:calculateRem(10px);
+            margin: 8px;
+
+        }
+    }
+    &__img {
+        width: 100%;
+        @extend %double-margin-bottom;
+    }
+
+    &__details {
+       @include flx(justify-content,center);
+        align-items: center;
+    }
+
+    &__date {
+        @extend %default-margin-left, %default-margin-right;
+        @include fontSize(12px);
+        font-style: italic;
+    }
+
+    &__tag {
+        @include fontSize(14px);
+        padding: 5px 7px;
+        color: &purple;
+        border: 1px solid $purple;
+        margin: 0 10px;
+    }
+
+    &__content {
+        font-weight: 500;
+        @include fontSize(14px);
+        color: $dark-gray;
+        padding: 10px 20px;
+        
+    }
+    
+}
