@@ -1,6 +1,6 @@
 <div align="center" id="top"> 
-  <img src="assets/img/desktop_readme.png" alt="Dashboard" width=500px heith=300px/>
-  <img src="assets/img/desktop2_readme.png" alt="Dashboard" width=500px heith=350px/>
+  <img src="assets/img/desktop_readme.png" alt="Dashboard" />
+  <img src="assets/img/desktop2_readme.png" alt="Dashboard" />
 
   &#xa0;
 
@@ -14,7 +14,7 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{luizamarlene}}/Petshop_gatito?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{luizamarlene}}/Petshop_gatito?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizamarlene/Petshop_gatito?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/{{luizamarlene}}/Petshop_gatito?color=56BEB8">
 
@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-
+- [Link](https://luizamarlene.github.io/Petshop_gatito/index.html)
 
 ## :sparkles: Features ##
 
@@ -69,10 +69,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{luizamarlene}}/dashboard
+$ git clone https://github.com/{{luizamarlene}}/Petshop_gatito
 
 # Access
-$ cd dashboard
+$ cd Petshop_gatito
 
 # Install dependencies
 $ yarn
