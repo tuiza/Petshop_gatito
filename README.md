@@ -1,22 +1,22 @@
 <div align="center" id="top"> 
-  <img src="assets/img/desktop_readme.png" alt="Dashboard" />
-  <img src="assets/img/desktop2_readme.png" alt="Dashboard" />
+  <img src="assets/img/desktop_readme.png" alt="imagem da pag home" width=400px/>
+  <img src="assets/img/desktop2_readme.png" alt="imagem da pag sobre nós" width=400px  />
 
   &#xa0;
 
-  <!-- <a href="https://dashboard.netlify.app">Demo</a> -->
+   <a href="https://luizamarlene.github.io/Petshop_gatito/index.html">Demo</a>
 </div>
 
 <h1 align="center">Petshop Gatito</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{luizamarlene}}/Petshop_gatito?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/luizamarlene/Petshop_gatito?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{luizamarlene}}/Petshop_gatito?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/luizamarlene/Petshop_gatito?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizamarlene/Petshop_gatito?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{luizamarlene}}/Petshop_gatito?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/luizamarlene/Petshop_gatito?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/dashboard?color=56BEB8" /> -->
 
@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-- [Link](https://luizamarlene.github.io/Petshop_gatito/index.html)
+- [Link]()
 
 ## :sparkles: Features ##
 
