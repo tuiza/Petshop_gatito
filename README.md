@@ -1,5 +1,6 @@
 <div align="center" id="top"> 
-  <img src="assets/img/desktop_readme.png" alt="Dashboard" />
+  <img src="assets/img/desktop_readme.png" alt="Dashboard" width=500px/>
+  <img src="assets/img/desktop2_readme.png" alt="Dashboard" width=500px />
 
   &#xa0;
 
